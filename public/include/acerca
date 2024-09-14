@@ -1,0 +1,12 @@
+<div id="about" class="tm-content-box">
+    <div class="tm-box-pad tm-bordered-box">
+        <h2 class="tm-section-title">Acerca de nosotros</h2>
+        <p>Nuestra empresa está orientada a la confección manual de cotillón y decoración para diferentes eventos, como: cumpleaños, babyshower, matrimonios, despedidas de soltera, entre otros.</p>
+    </div>
+    <div class="tm-flex">
+        <div class="tm-purple-bg tm-box-pad tm-bordered-box tm-no-border-top">
+            
+            <p>Buscamos entregar color y originalidad a cada uno de estos importantes momentos de tu vida, y a su vez, la oportunidad de poder disfrutar como niños a pesar de ser adultos. Te invitamos a conocernos, a confiar en nosotros y a creer en la magia.</p>
+        </div>  
+    </div>                        
+</div>

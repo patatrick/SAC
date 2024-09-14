@@ -1,0 +1,38 @@
+<nav class="navbar navbar-expand-lg fixed-top tm-purple-bg border" style="opacity: .95">
+    <a class="navbar-brand font-weight-bold" href="index.php">Inicio</a>
+    <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto  dropdown font-weight-bold">
+            <li class="nav-item">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categorías</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="fiestas_de_oficina.php">Fiestas de oficina</a>
+                    <a class="dropdown-item" href="cumpleaños.php">Cumpleaños</a>
+                    <a class="dropdown-item" href="baby_shower.php">Baby Shower</a>
+                    <a class="dropdown-item" href="bodas.php">Bodas</a>
+                    <a class="dropdown-item" href="graduaciones.php">Graduaciones</a>
+                    <a class="dropdown-item" href="despedidas_de_soltera.php">Despedidas de Soltera</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="efemerides.php">Efemérides</a>
+                    <a class="dropdown-item" href="pascua.php">Pascua</a>
+                    <a class="dropdown-item" href="dia_de_la_madre.php">Día de la madre</a>
+                    <a class="dropdown-item" href="halloween.php">Halloween</a>
+                    <a class="dropdown-item" href="navidad.php">Navidad</a>
+                    <a class="dropdown-item" href="disfrases.php">Disfrases</a>
+                </div>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link font-weight-bold" href="#about">Acerca de<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link w-100" href="#contact">Contacto</a>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
+            <button class="btn btn-outline-white my-2 my-sm-0" type="submit">Buscar</button>
+        </form>
+    </div>
+</nav>

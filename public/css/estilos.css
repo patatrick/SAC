@@ -1,0 +1,39 @@
+     @font-face {
+        font-family: 'amperzand';
+        src: url('../lib/fonts/Amperzand.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+        figcaption a{position: absolute !important; z-index:1 !important; }
+        .icon-menu2{font-size: 45px;cursor: pointer;}
+        .icon-menu2:hover{color: #ead5d3;}
+        figure img {width: 100%;}
+        .menu1{background-color: #993366;padding-left: 10px;padding-bottom: 3px; color: white;margin-bottom: 5px;display: none;}
+
+        .bold{font-weight: bolder !important;}
+        a{
+            color: white;
+          text-decoration: none !important;
+        }
+        a:hover{ color: #ead53d; }
+        #google-map{display: block;}
+        address {padding-top: 1em;}
+        address div{font-size: x-large;margin: 0.5em 0;}
+        address div span{font-size: xx-large;}
+        .tit{font-family: 'amperzand';text-transform: none;
+                color: #fff;background-color: #993366;}
+        figcaption p{line-height: 20px;}
+
+
+    @media screen and (max-width: 576px){.tit{font-size: 1.45em;}}
+    @media screen and (max-width: 800px){
+
+            #google-map{display: none;}
+        }
+    @media screen and (max-width: 991px){
+        .tm-sidebar{display: none ;position: fixed;top:45px;z-index: 11 !important;width: 80%;
+        }
+    .menu1{display: block !important; position: relative;top: 55px;z-index: 10 !important;
+        width: 100%;opacity: .96;
+            }
+        }

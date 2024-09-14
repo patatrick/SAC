@@ -1,0 +1,8 @@
+        <section id="welcome" class="tm-content-box tm-banner margin-b-10">
+            <div class="tm-banner-inner tit p-xs-1">
+                <h2 class="tm-banner-title tit">Bienvenidos a la Magia del Cotillon</h2>       
+            </div>                    
+        </section>
+            <div class="menu1 d-lg-none ">
+                <span class="icon-menu2"></span>
+            </div> 

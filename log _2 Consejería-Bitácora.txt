@@ -1,0 +1,17 @@
+﻿*Menú Conserjeria
+  -Bitácora
+	conserjeria.php__________________Contiene bitácora nivel usuario
+	admin-conserjeria.php____________Contiene bitácora nivel admin
+	conserjeria-eventos______________Contiene todas las bitácoras (admin)
+
+Carpetas creadas:
+  /submenus__________________________Contiene las carpetas includes de los menus
+    /submenus/conserjeria____________Contiene todos los includes de consejeria
+  /javascript________________________Contiene mi js que hice (función para sacar la fecha y hora actual)
+
+
+  /css______________Carpeta vacía (Pasé su contenido a assets/css/main.css(la hoja de estilo principal)).
+
+
+  A cada body de los php hechos por mí, les puse un ' id="PAT" ', con el fin de evitar repetición de codigo,
+  ya que cada uno de nosotros va a trabajar allí.

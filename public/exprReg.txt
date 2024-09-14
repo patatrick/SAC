@@ -1,0 +1,25 @@
+"/^[0-9]*$/";        // Solo cadena vacia o numeros
+
+"/^[0-9]+$/";              // Solo numeros. No se admite cadena vacia
+
+"/^[a-zA-Z]+$/";             // Solo letras en mayusculas/minusculas. No se admite cadena vacia
+
+"/^[0-9a-zA-Z]+$/";        // Solo letras en mayusculas/minusculas y numeros. No se admite
+								 cadena vacia  
+
+
+&acute; &Ntilde; &nbsp; `\
+
+Para compras con facturas, al precio debe incluir IVA.
+
+
+
+Acerca de nosotros
+
+Nuestra empresa está orientada a la confección manual de cotillón y decoración para diferentes eventos, como: cumpleaños, babyshower, matrimonios, despedidas de soltera, entre otros.
+Buscamos entregar color y originalidad a cada uno de estos importantes momentos de tu vida, y a su vez, la oportunidad de poder disfrutar como niños a pesar de ser adultos. Te invitamos a conocernos, a confiar en nosotros y a creer en la magia.
+
+
++56 9 5673 4009
+@lamagiadelcotillon
+@lamagiadelcotillon

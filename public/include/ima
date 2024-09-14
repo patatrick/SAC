@@ -1,0 +1,8 @@
+<figure class="effect-bubba m-1 h-auto ajus">
+    <img src="img/fiestas_1.jpg" class="img-fluid" />
+    <figcaption>
+        <h2></h2>
+        <div id="obj"></div>
+        <a href="img/fiestas.jpg">view more</a>
+    </figcaption>
+</figure>
